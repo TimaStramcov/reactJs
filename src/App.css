@@ -28,6 +28,12 @@
   color: #61dafb;
 }
 
+.Message-text {
+  font-size: 100px;
+  color:bisque;
+  margin-top: 0;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
